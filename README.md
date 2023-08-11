@@ -24,7 +24,7 @@ Bibliotecas que se utilizaron:
 
 El programa se encuentra dentro de la carpeta **proyecto_tesis**, el cual se debe de importar a Eclipse para que pueda ser compilado y ejecutado.
 
-* La carpeta **files** se hallan los siguientes archivos:
+* En la carpeta **files** se hallan los siguientes archivos:
   - `Configurations.txt` - Los valores de configuración con los que trabaja el programa.
   - `E15.txt` - Los IDs con las demandas de los clientes y del depósito del ejemplar de 15 ciudades.
   - `E20.txt` - Los IDs con las demandas de los clientes y del depósito del ejemplar de 20 ciudades.
