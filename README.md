@@ -33,7 +33,7 @@ El programa se encuentra dentro de la carpeta **proyecto_tesis**, el cual se deb
 
 * En la carpeta **sql** se encuentra la base de datos `cities.sql`, la cual contiene la información de las ciudades y la distancia entre cada par de ciudades.
 
-Para poder ejecutar el programa se le deben pasar los argumentos con los que se quiere ejecutar el progama:
+Para poder ejecutar el programa se le debe pasar alguno de los siguientes argumentos:
 
 * `-s 1` - Colonia de hormigas única.
 * `-s 2` - Colonia de hormigas única y heurística 2-opt.
